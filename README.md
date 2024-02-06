@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile.🚀
 
-🌟 **If you share my passion for continuous learning, science and technology, feel free to connect with me.**🌟
+🌟 **If you share my passion for continuous learning, science and technology, feel free to connect with me.** 🌟
 
 ### 🌍 Social Media: 
 - **LinkedIn:** https://www.linkedin.com/in/keysiesanchezrosario/
