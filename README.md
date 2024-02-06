@@ -8,6 +8,7 @@ Welcome to my GitHub profile.🚀
 
 ### 🌍 Social Media: 
 - **LinkedIn:** https://www.linkedin.com/in/keysiesanchezrosario/
+- **E-mail:** keysiesanchezrosario270301@gmail.com
 ### 💻 Programming Languages & Skills
 
 Here's a snapshot of the languages in my toolkit:
