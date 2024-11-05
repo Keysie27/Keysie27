@@ -1,6 +1,6 @@
 # README.md
 
-# 👋🏼 Hello, I'm Keysie Sanchez Rosario!
+# 👋🏼 Hello, I'm Keysie Sanchez!
 
 Welcome to my GitHub profile.🚀
 
