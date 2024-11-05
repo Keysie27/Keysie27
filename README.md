@@ -6,8 +6,6 @@ Welcome to my GitHub profile.🚀
 
 🌟 **If you share my passion for continuous learning, science and technology, feel free to connect with me.** 🌟
 
-- **E-mail:** keysiesanchezrosario270301@gmail.com
-
 ### 💻 Programming Languages & Skills
 
 Here's a snapshot of the languages in my toolkit:
