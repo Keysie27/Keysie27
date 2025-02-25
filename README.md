@@ -10,6 +10,7 @@ Welcome to my GitHub profile.🚀
 
 Here's a snapshot of the languages in my toolkit:
 
+- Data: Snowflake, dbt, Dagster, AWS...
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) AI models development and data analysis.
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) Software and Hardware development for robotics and electronic modules.
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) Robotic simulations and AI models.
