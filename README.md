@@ -5,9 +5,8 @@
 ---
 
 ## 🧑‍💻 About Me  
-I like to **play with AI, data, build pipelines, and decode problems**.  
-Currently focused on **Data Engineering, NLP/AI, and Big Data solutions**.  
-Also an **AI & Data Science instructor**, helping professionals and students across the world.  
+- I like to **play with AI, data, build pipelines, and decode problems**.  
+- Currently focused on **Data Engineering, AI, and Big Data solutions**.
 
 ---
 
