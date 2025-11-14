@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me  
 - I like to **play with AI, data, build pipelines, and decode problems**.  
-- Currently focused on **Data Engineering, AI, and Big Data solutions**.
+- Currently focused on **Data Analytics Engineering, AI, and Big Data solutions**.
 
 ---
 
